@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harish-Kumar
+- 👋 Hi, I’m Harish Kumar
 - 👀 I’m interested in software development and cyber security
 - 🌱 I’m currently learning binary exploitation and reverse engineering 
 - 💞️ I’m looking to collaborate on web development projects
