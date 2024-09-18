@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Harish-Kumar
+- 👀 I’m interested in software development and cyber security
+- 🌱 I’m currently learning binary exploitation and reverse engineering 
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me my instagram link:https://www.instagram.com/__harishkumar.__?igsh=dGZwYXczc2hkN3Aw
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Iam just getting started
